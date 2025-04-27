@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoPaginationApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9b12b33ebb74f0d257424aa4d573ec0c822a167")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e99dd6581b7e1a703ba8cd6755fe819ce6ea0f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoPaginationApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoPaginationApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
